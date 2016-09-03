@@ -1,77 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
- Copyright 2016 Google Inc.
- 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
- 
-      http://www.apache.org/licenses/LICENSE-2.0
- 
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
--->
-
 <items version="2" >
 
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="661a632c3b434991d6364690cbe0f786371101cc">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-alpha2_cae93c9a6ab21cdae4e1d4ce50f310db2e3fe303/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-core-ui-24.2.0_bef996c6b7fd4aebd84265071e54327d5f359e53.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/incremental-classes/completed/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="dff6425dde94c675d7608f69942be82e4687cc4a">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/instant-run-bootstrap_4213e8f9f0f006552132c78ea9b074dd453ae588/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-v4-24.2.0_f52feaf163f5973d18872e8d10c619ff04f40877.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha2_58f8c8edec02c781751c149ec0c6c2e8e4f0ab62/classes.dex" />
+        jar="D:\Users\Will\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\support-annotations-24.2.0_bb635772399c82165b4c23c0ccf3f5be9d4c4868.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/incremental-runtime-classes/completed/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="5e32c59c04c1e9f13390e62dfc3685f53c03efaa">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/instant-run_7a135e35d260858b7fe65832526d15ac42fd3cdf/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-fragment-24.2.0_5c0468fc6de6d23b42f002674d022ac68fdfb425.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/internal_impl-24.0.0-alpha2_9805b471ae24db8cee470f36b41fe14704606e30/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\internal_impl-24.2.0_4834902f10bc494c3032138599cc3d2fc7e8ce68.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-alpha2_34a9113dfae0e868cf21a20002d996ab5b8e11c0/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-media-compat-24.2.0_de041bd342dafc7985c1cef32c3268871149e72f.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/support-annotations-24.0.0-alpha2_74a312b5dbb5092fca55334a9c0c525678de47f6/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\internal_impl-24.2.0_4a06d7d20c07d5c637382659d71bf0b03c41082f.jar" />
     </item>
     <item
-        jar="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
-        <dex dex="/Users/erschmid/Documents/GitProjects/android-quick-settings/master/android-quick-settings/app/build/intermediates/transforms/dex/completed/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-alpha2_c5977f7fdc7a7baafd13b9fb356be18ad7c39132/classes.dex" />
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-compat-24.2.0_c7b36085c0e2b0a3a87660395fdb538dec617e9a.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\internal_impl-24.2.0_f870d886e72b340fe50ee2c8fdca524ba3cd08f6.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\internal_impl-24.2.0_609515c3bfaeeef5215a41e277199416c710e564.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-animated-vector-drawable-24.2.0_1c4296818f7538c0222d9d66265051787dcdf753.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-core-utils-24.2.0_6e748d1e4056b1f734103995642c84086963bfaf.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-support-vector-drawable-24.2.0_212ee638c9f9237b1a3a90f1a9fe8334d588e319.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\internal_impl-24.2.0_f041d03343c43261e20e9eb3caf7c93f3cf58833.jar" />
+    </item>
+    <item
+        jar="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Users\Will\AndroidStudioProjects\android-n-quick-settings\app\build\intermediates\pre-dexed\completed\debug\com.android.support-appcompat-v7-24.2.0_633fd5ce7376ad52b8e76eb96b2d219b2f4e3526.jar" />
     </item>
 
 </items>
